@@ -1,2 +1,5 @@
 .DS_STORE
-
+*.sass-cache
+/pkg
+/doc/api
+/Gemfile.lock
